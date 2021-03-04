@@ -1,3 +1,5 @@
+[![Victoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoirebeaufils&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋
 
 - 🔭 I’ve been working on an app about Dialectic and Behavioral Therapy
@@ -6,4 +8,5 @@
 - 📫 How to reach me: Email me using victoire.beaufil@gmail.com or vbeaufil@purdue.edu
 - 😄 Pronouns: she/her or they/them
 
-[![Victoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoirebeaufils&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoirebeaufils&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
