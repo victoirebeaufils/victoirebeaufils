@@ -5,3 +5,5 @@
 - 💬 Ask me about language learning and cognitive and abnormal psychology
 - 📫 How to reach me: Email me using victoire.beaufil@gmail.com or vbeaufil@purdue.edu
 - 😄 Pronouns: she/her or they/them
+
+[![Victoire's GitHub stats](https://github-readme-stats.vercel.app/api?username=victoirebeaufils)](https://github.com/anuraghazra/github-readme-stats)
