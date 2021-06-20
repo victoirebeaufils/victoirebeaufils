@@ -9,4 +9,5 @@
 - 😄 Pronouns: she/her or they/them
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoirebeaufils&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoirebeaufils&theme=radical&layout=compact&count_private=true)
+](https://github.com/anuraghazra/github-readme-stats)
