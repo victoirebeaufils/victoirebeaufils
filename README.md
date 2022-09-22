@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🔭 I’m working on a secret project dealing with health-related information recording and processing 😎 
-- 🌱 I’m currently a student at Purdue University and I am taking "Software Engineering II", "Operating Systems" and "Intro to Relational Database Systems"
+- 🌱 I’m currently a student at Purdue University and I am taking "Operating Systems" and doing psychology research
 - 💬 Ask me about language learning, cognition, abnormal psychology, EEG recordings, Brain Computer Interfaces or UI/UX
 - 📫 How to reach me: Email me using victoire.beaufil@gmail.com or vbeaufil@purdue.edu
 - 😄 Pronouns: she/her or they/them
